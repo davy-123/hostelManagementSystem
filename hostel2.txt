@@ -1,0 +1,13 @@
+------------------------------------------***Welcome Admin (102002)***-----------------------------------------------
+
+                                INCHARGE OF --> BOYS HOSTEL NO. 2 ( ECE and EEE )
+
+==================================================================================================================
+
+Admin name                  :    Manoj Tiwari
+Admin mob_no                :    +91 9887786567
+Admin age                   :    42
+Hostel id                   :    5679002
+Hostel name                 :    G.C. Chatterji  Hostel
+Total number of rooms       :   100
+

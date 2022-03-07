@@ -1,0 +1,13 @@
+------------------------------------------***Welcome Admin (102005)***-----------------------------------------------
+
+                                INCHARGE OF --> GIRLS HOSTEL NO. 2 ( ECE and EEE )
+
+==================================================================================================================
+
+Admin name                  :    Maya Sharma
+Admin mob_no                :    +91 7538867987
+Admin age                   :    36
+Hostel id                   :    5679005
+Hostel name                 :    Justice Teja Singh Samundari Hostel
+Total number of rooms       :    100
+

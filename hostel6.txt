@@ -1,0 +1,13 @@
+------------------------------------------***Welcome Admin (102006)***-----------------------------------------------
+
+                                INCHARGE OF --> GIRLS HOSTEL NO. 3 ( MECH and BIOTECH )
+
+==================================================================================================================
+
+Admin name                  :    Diksha Choudhary
+Admin mob_no                :    +91 7838967285
+Admin age                   :    41
+Hostel id                   :    5679006
+Hostel name                 :    Baba Banda Singh Bahadur Hostel
+Total number of rooms       :    100
+

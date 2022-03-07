@@ -1,0 +1,13 @@
+------------------------------------------***Welcome Admin (102004)***-----------------------------------------------
+
+                                INCHARGE OF --> GIRLS HOSTEL NO. 1 ( CSE & IT )
+
+==================================================================================================================
+
+Admin name                  :    Shweta Raj
+Admin mob_no                :    +91 9797978665
+Admin age                   :    34
+Hostel id                   :    5679004
+Hostel name                 :    Lala Lajpat Rai Hostel
+Total number of rooms       :    100
+

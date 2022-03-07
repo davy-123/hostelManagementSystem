@@ -1,0 +1,12 @@
+------------------------------------------***Welcome Admin (102003)***-----------------------------------------------
+
+                                    INCHARGE OF --> BOYS HOSTEL NO. 3 ( MECH and BIOTECH )
+
+==================================================================================================================
+
+Admin name                  :    Hardeep Singh
+Admin mob_no                :    +91 7868867207
+Admin age                   :    44
+Hostel id                   :    5679003
+Hostel name                 :    Shanti Swaroop Bhatnagar Hostel
+Total number of rooms       :   100

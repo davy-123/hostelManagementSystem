@@ -1,0 +1,13 @@
+------------------------------------------***Welcome Admin (102001)***-----------------------------------------------
+
+                                    INCHARGE OF --> BOYS HOSTEL NO. 1 ( CSE & IT )
+
+==================================================================================================================
+
+Admin name                  :    Sukhvinder Singh
+Admin mob_no                :    +91 7889876785
+Admin age                   :    47
+Hostel id                   :    5679001
+Hostel name                 :    Mehar Chand Mahajan Hostel
+Total number of rooms       :    100
+
